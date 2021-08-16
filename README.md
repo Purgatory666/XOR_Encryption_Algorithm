@@ -15,7 +15,7 @@ Key Features:
 
 NOTE: 
 1) Code is not explained
-2) 2) Program is still in development
+2) Program is still in development
 3) New features will be added very soon
 4) If possible try to avoid spaces, it will give an error (In some IDE's it works as the ASCII character of a blank space is 32 )
       
