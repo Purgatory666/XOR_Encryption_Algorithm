@@ -30,3 +30,4 @@ General Information:
 1) This program cannot be used to decrypt messages
 2) A new repository containing the decryption algorithm will be created very soon
 3) Feel free to add and modify the code
+4) Feel free to ask or suggest something in discussions
