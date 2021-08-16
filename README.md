@@ -1,4 +1,4 @@
-# XOR_Encyption_Algorithm
+# XOR_Encryption_Algorithm
 
 1) Made By: Purgatory666
 2) Language: Python
@@ -16,6 +16,7 @@ Key Features:
 NOTE: Code is not explained
       Program is still in development
       New features will be added very soon
+      If possible try to avoid spaces, it will give an error (In some IDE's it works as the ASCII character of a blank space is 32 )
       
       
 Encryption Process:
