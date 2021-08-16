@@ -1,6 +1,8 @@
 # XOR_Encyption_Algorithm
 
 Made By: Purgatory666
+Language: Python
+Date: 16/8/2021
 
 Key Features:
 
