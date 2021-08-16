@@ -21,6 +21,7 @@ Encryption Process:
   2) Converts ASCII to binary
   3) Uses random pre-defined key to encrypt (New keys can be added and used for encryption)
 
+General Information:
 1) This program cannot be used to decrypt messages
 2) A new repository containing the decryption algorithm will be created very soon
 3) Feel free to add and modify the code
