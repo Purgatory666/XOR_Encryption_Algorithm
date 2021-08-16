@@ -13,10 +13,10 @@ Key Features:
 5) Encrypted value and key used is mentioned in output
 6) Fast and efficient
 
-NOTE: Code is not explained
-      Program is still in development
-      New features will be added very soon
-      If possible try to avoid spaces, it will give an error (In some IDE's it works as the ASCII character of a blank space is 32 )
+NOTE: 1) Code is not explained
+      2) Program is still in development
+      3) New features will be added very soon
+      4) If possible try to avoid spaces, it will give an error (In some IDE's it works as the ASCII character of a blank space is 32 )
       
       
 Encryption Process:
